@@ -34,4 +34,3 @@ Run the `simple-interest.sh` script in a Bash terminal and enter the requested v
 ## License
 
 This project is licensed under the Apache License 2.0.
-2023
